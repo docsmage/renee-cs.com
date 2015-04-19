@@ -1,26 +1,41 @@
 #container {
   margin: auto;
   position: absolute;
-  height: 50%;
+  height: 70%;
   top: 0; left: 0; bottom: 0; right: 0;
   text-align: center;
   font-family: Georgia;
+  /*border-style: solid; */ /* for testing purposes */
+  /*border-padding: 1px;*/
+  /*border-color: red;*/
 }
 
 h1 {
   margin-bottom: 20px;
+  font-family: OCR A Extended, monospace !important;
 }
 
-h2 {
+h3 {
   margin-bottom: 25px;
+  font-family: OCR A Extended, monospace !important;
 }
 
 hr {
   max-width: 30%;
 }
 
+p {
+  font-family: OCR A Extended, monospace !important;
+  font-weight: bold;
+}
+
+#android-logo {
+  text-align: center;
+  height: 220px;
+}
+
 .languagelogos {
   width: auto;
-  height: 70px;
+  height: 60px;
   margin-left: 20px;
 }
