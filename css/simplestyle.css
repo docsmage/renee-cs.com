@@ -1,11 +1,12 @@
 #container {
   margin: auto;
   position: absolute;
-  height: 80%;
+  height: 65%;
+  width: 45%;
   top: 0; left: 0; bottom: 0; right: 0;
   text-align: center;
   font-family: Georgia;
-  /*border-style: solid; */ /* for testing purposes */
+  /*border-style: solid;*/ /*for testing purposes*/
   /*border-padding: 1px;*/
   /*border-color: red;*/
 }
